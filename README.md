@@ -47,6 +47,14 @@ sklearn.metrics
    macro avg       0.81      0.77      0.79     16281
 weighted avg       0.85      0.86      0.85     16281
 
+|
+             precision    recall  f1-score   support  | 
+| --------------| -------- | ----------- |-------------|
+|  0       0.89      0.93      0.91     12435 |
+|  1       0.73      0.61      0.67      3846|
+| accuracy                           0.86     16281
+   macro avg       0.81      0.77      0.79     16281|
+   weighted avg       0.85      0.86      0.85     16281
 
 
 
