@@ -44,13 +44,13 @@ sklearn.metrics
 
 | Random Forest | Precision| Recall      | f1-score    |support
 | --------------| -------- | ----------- |-------------|-------------|
-| 0             | 0.89     | 0.93        | 0.91        | 12435       |
-| 1             | 0.73     | 0.61        | 0.67        | 3846        |
+| 0 (75%-<=50K) | 0.89     | 0.93        | 0.91        | 12435       |
+| 1 (25%-<=50K) | 0.73     | 0.61        | 0.67        | 3846        |
 | Accuracy      |          |             | 0.86        | 16281       |
 | Macro avg     | 0.81     | 0.77        | 0.79        | 16281       |
 | weighted avg  | 0.85     | 0.86        | 0.85        | 16281       |
 
-We can see that the model needs improvment for the smaller proportion of data 25% of those whose income is higher than 50K 
+We can see that the model needs improvment for the smaller proportion class (25% of those whose income is higher than 50K) 
 So I shuffled the training and testing sets so that they have a random number of samples of each class training and testing data and that yield to higher accuracy
         Evaluating the model on the training set yields an accuracy of 99.99232186732186%
         Evaluating the model on the testing set yields an accuracy of 84.43%
