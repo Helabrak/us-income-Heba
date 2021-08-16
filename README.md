@@ -66,6 +66,7 @@ So I shuffled the training and testing sets so that they have a random number of
         - Evaluating the model on the testing set yields an accuracy of 84.43%
 
 
+
 # Contributors
 | Name           | GitHub                                                                              |
 |----------------|-------------------------------------------------------------------------------------|
