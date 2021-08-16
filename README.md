@@ -4,17 +4,17 @@
 
 Predicting the income of every US citizen?
 throuhg accomplishing the following: 
-    Be able to analyze a machine learning problem
-    Be able to reason about possible causes of overfitting
-    Be able to remedy the causes of overfitting
-    Be able to tune parameters of a machine learning model
-    Be able to write clean and documented code.
+- Be able to analyze a machine learning problem
+- Be able to reason about possible causes of overfitting
+- Be able to remedy the causes of overfitting
+- Be able to tune parameters of a machine learning model
+- Be able to write clean and documented code.
     
 ## Must-have features    
-Baseline accuracy
-Multiple evaluation metrics
-Hyper parameter tuning
-Some type of validation strategy
+- Baseline accuracy
+- Multiple evaluation metrics
+- Hyper parameter tuning
+- Some type of validation strategy
 
 
 # Installation
