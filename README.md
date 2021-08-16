@@ -62,8 +62,8 @@ sklearn.metrics
 
 We can see that the model needs improvment for the smaller proportion class (25% of those whose income is higher than 50K) 
 So I shuffled the training and testing sets so that they have a random number of samples of each class training and testing data and that yield to higher accuracy
-        -Evaluating the model on the training set yields an accuracy of 99.99232186732186%
-        -Evaluating the model on the testing set yields an accuracy of 84.43%
+        - Evaluating the model on the training set yields an accuracy of 99.99232186732186%
+        - Evaluating the model on the testing set yields an accuracy of 84.43%
 
 
 # Contributors
