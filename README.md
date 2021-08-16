@@ -2,13 +2,12 @@
 
 ## Mission objectives
 
-Predicting the income of every US citizen?
-throuhg accomplishing the following: 
-- Be able to analyze a machine learning problem
-- Be able to reason about possible causes of overfitting
-- Be able to remedy the causes of overfitting
-- Be able to tune parameters of a machine learning model
-- Be able to write clean and documented code.
+Predicting the income of every US citizen,through accomplishing the following: 
+- Analyzing a machine learning problem
+- Reasoning about possible causes of overfitting
+- Tackling the causes of overfitting
+- Tuning parameters of a machine learning model
+- writing clean and documented code.
     
 ## Must-have features    
 - Baseline accuracy
@@ -36,6 +35,10 @@ sklearn.metrics
 | Filename                             | Usage                                                     |
 |--------------------------------------|-----------------------------------------------------------|
 | us_income final-checkpoint.ipynb | Jupyer Notebook file containing Python code
+| data_test.csv | testing dataset
+| data_train.csv | trained dataset 
+| 05.evaluation_challenge.md | Assignment requirments from Becode 
+
 
 
 # Visuals
