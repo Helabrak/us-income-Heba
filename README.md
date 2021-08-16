@@ -10,11 +10,12 @@ throuhg accomplishing the following:
     Be able to tune parameters of a machine learning model
     Be able to write clean and documented code.
     
-    Must-have features
+## Must-have features    
 Baseline accuracy
 Multiple evaluation metrics
 Hyper parameter tuning
 Some type of validation strategy
+
 
 # Installation
 
