@@ -50,8 +50,10 @@ sklearn.metrics
 | Macro avg     | 0.81     | 0.77        | 0.79        | 16281       |
 | weighted avg  | 0.85     | 0.86        | 0.85        | 16281       |
 
-In the end, we can see that either the SVC or KNN models are the best performer with perfect scores of 1.00.
-We choose KNeighbors as our model and made further analysis/visuals about its performance.
+We can see that the model needs improvment for the smaller proportion of data 25% of those whose income is higher than 50K 
+So I shuffled the training and testing sets so that they have a random number of samples of each class training and testing data and that yield to higher accuracy
+        Evaluating the model on the training set yields an accuracy of 99.99232186732186%
+        Evaluating the model on the testing set yields an accuracy of 84.43%
 
 
 # Contributors
